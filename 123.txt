@@ -1,0 +1,1 @@
+g++ BufferManager.cpp FileHandle.cpp HashTable.cpp PageHandle.cpp RM_FileHandle.cpp RM_FileManager.cpp RM_FileScan.cpp RM_RID.cpp RM_Test.cpp FileManager.cpp SM_Manager.cpp Printer.cpp main.cpp Analysis.cpp lex.yy.c nodes.c y.tab.c -o test.exe
